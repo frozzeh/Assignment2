@@ -40,7 +40,6 @@ public class Main {
         System.out.println("\nAfter booking seats:");
         System.out.println(flight1);
 
-        // Полиморфизм: список пользователей
         List<User> users = new ArrayList<>();
         users.add(passenger1);
         users.add(passenger2);
